@@ -2,7 +2,7 @@ package BaekJoon;
 
 import java.util.Scanner;
 
-public class Day03141001 {
+public class Day0314_10998 {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
@@ -10,6 +10,6 @@ public class Day03141001 {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-        System.out.println(a - b);
+        System.out.println(a * b);
     }
 }
